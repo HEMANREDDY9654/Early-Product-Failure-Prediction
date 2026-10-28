@@ -1,0 +1,906 @@
+product_id,review_date,review_text,rating
+PHONE_E5,2024-01-01,[SYNTHETIC] Very good phone overall. The display is a standout feature.,5
+PHONE_E5,2024-01-01,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_B2,2024-01-02,[SYNTHETIC] Happy customer here. The display is top notch.,4
+PHONE_D4,2024-01-02,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_B2,2024-01-02,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_A1,2024-01-03,[SYNTHETIC] Solid software performance. Would recommend to others.,5
+PHONE_A1,2024-01-03,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_C3,2024-01-04,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_E5,2024-01-05,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_E5,2024-01-06,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,4
+PHONE_A1,2024-01-06,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_A1,2024-01-06,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_D4,2024-01-07,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,5
+PHONE_D4,2024-01-09,[SYNTHETIC] Really happy with this phone. The display works perfectly.,4
+PHONE_D4,2024-01-09,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_A1,2024-01-11,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,4
+PHONE_A1,2024-01-11,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_C3,2024-01-12,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_D4,2024-01-12,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,2
+PHONE_B2,2024-01-12,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_A1,2024-01-12,[SYNTHETIC] No complaints about the software. Works as advertised.,5
+PHONE_E5,2024-01-13,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_A1,2024-01-14,[SYNTHETIC] Love the software on this device. Best purchase I've made.,5
+PHONE_C3,2024-01-14,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_A1,2024-01-14,[SYNTHETIC] Great product! The software is excellent and I'm very satisfied.,4
+PHONE_E5,2024-01-14,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,4
+PHONE_A1,2024-01-14,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,4
+PHONE_B2,2024-01-15,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,3
+PHONE_A1,2024-01-15,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_D4,2024-01-15,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-01-16,[SYNTHETIC] Impressive display. Works smoothly and looks great.,5
+PHONE_D4,2024-01-16,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,4
+PHONE_E5,2024-01-17,[SYNTHETIC] Solid battery performance. Would recommend to others.,4
+PHONE_E5,2024-01-17,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_B2,2024-01-17,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-01-18,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,3
+PHONE_B2,2024-01-19,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_A1,2024-01-19,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_C3,2024-01-19,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_D4,2024-01-19,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_D4,2024-01-20,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_E5,2024-01-20,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,5
+PHONE_A1,2024-01-20,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,2
+PHONE_A1,2024-01-21,[SYNTHETIC] Happy customer here. The software is top notch.,3
+PHONE_E5,2024-01-21,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,5
+PHONE_A1,2024-01-22,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_E5,2024-01-22,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_D4,2024-01-23,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_A1,2024-01-24,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_C3,2024-01-24,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_A1,2024-01-25,[SYNTHETIC] Love the software on this device. Best purchase I've made.,5
+PHONE_D4,2024-01-25,[SYNTHETIC] Happy customer here. The battery is top notch.,5
+PHONE_B2,2024-01-25,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_D4,2024-01-26,[SYNTHETIC] Five stars! The software exceeded my expectations.,4
+PHONE_D4,2024-01-26,[SYNTHETIC] Happy customer here. The software is top notch.,5
+PHONE_C3,2024-01-26,[SYNTHETIC] Five stars! The battery exceeded my expectations.,5
+PHONE_A1,2024-01-26,[SYNTHETIC] Happy customer here. The software is top notch.,5
+PHONE_A1,2024-01-27,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_A1,2024-01-27,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_C3,2024-01-27,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_A1,2024-01-27,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,4
+PHONE_A1,2024-01-28,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_E5,2024-01-28,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,3
+PHONE_E5,2024-01-29,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_E5,2024-01-30,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_E5,2024-01-30,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,3
+PHONE_A1,2024-01-30,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-01-30,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_D4,2024-01-31,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,4
+PHONE_E5,2024-02-01,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_A1,2024-02-01,[SYNTHETIC] Software update caused battery drain and crashes.,3
+PHONE_C3,2024-02-01,[SYNTHETIC] Great product! The software is excellent and I'm very satisfied.,4
+PHONE_A1,2024-02-02,[SYNTHETIC] Love the software on this device. Best purchase I've made.,4
+PHONE_E5,2024-02-02,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_D4,2024-02-02,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,4
+PHONE_D4,2024-02-04,[SYNTHETIC] Very good phone overall. The software is a standout feature.,5
+PHONE_B2,2024-02-04,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,4
+PHONE_D4,2024-02-04,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-02-04,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-02-05,[SYNTHETIC] Very good phone overall. The software is a standout feature.,4
+PHONE_B2,2024-02-05,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_A1,2024-02-05,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_C3,2024-02-05,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,4
+PHONE_D4,2024-02-06,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_A1,2024-02-07,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_E5,2024-02-07,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_B2,2024-02-08,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_A1,2024-02-08,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_D4,2024-02-08,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_A1,2024-02-08,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,2
+PHONE_C3,2024-02-08,[SYNTHETIC] Impressive software. Works smoothly and looks great.,5
+PHONE_D4,2024-02-10,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-02-10,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-02-10,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_A1,2024-02-11,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_E5,2024-02-12,[SYNTHETIC] Happy customer here. The battery is top notch.,5
+PHONE_A1,2024-02-12,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_A1,2024-02-13,[SYNTHETIC] Average product. Nothing special but nothing terrible.,2
+PHONE_A1,2024-02-14,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_E5,2024-02-15,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,3
+PHONE_B2,2024-02-15,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_C3,2024-02-15,[SYNTHETIC] Solid software performance. Would recommend to others.,3
+PHONE_D4,2024-02-16,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,5
+PHONE_A1,2024-02-17,[SYNTHETIC] Really happy with this phone. The software works perfectly.,4
+PHONE_A1,2024-02-17,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,4
+PHONE_C3,2024-02-17,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,4
+PHONE_D4,2024-02-17,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_E5,2024-02-18,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-02-18,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,5
+PHONE_A1,2024-02-18,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-02-19,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_B2,2024-02-19,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_A1,2024-02-19,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_C3,2024-02-19,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_A1,2024-02-20,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_A1,2024-02-21,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,3
+PHONE_A1,2024-02-21,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,3
+PHONE_A1,2024-02-21,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_E5,2024-02-21,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-02-22,[SYNTHETIC] It works fine for everyday use. No major complaints.,2
+PHONE_B2,2024-02-22,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-02-22,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_E5,2024-02-23,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_C3,2024-02-23,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,1
+PHONE_E5,2024-02-24,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_A1,2024-02-25,[SYNTHETIC] Love the software on this device. Best purchase I've made.,5
+PHONE_E5,2024-02-25,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_A1,2024-02-25,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_E5,2024-02-26,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,5
+PHONE_B2,2024-02-26,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_A1,2024-02-26,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,5
+PHONE_A1,2024-02-28,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-02-28,[SYNTHETIC] Very good phone overall. The software is a standout feature.,4
+PHONE_C3,2024-02-28,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_E5,2024-02-28,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,2
+PHONE_B2,2024-02-28,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_B2,2024-02-28,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_B2,2024-02-29,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,2
+PHONE_A1,2024-02-29,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_C3,2024-02-29,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,1
+PHONE_B2,2024-02-29,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,3
+PHONE_D4,2024-03-01,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,4
+PHONE_A1,2024-03-02,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,3
+PHONE_A1,2024-03-03,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_D4,2024-03-03,[SYNTHETIC] Night mode is useless. Photos are grainy and dark.,2
+PHONE_A1,2024-03-04,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_C3,2024-03-04,[SYNTHETIC] Five stars! The battery exceeded my expectations.,5
+PHONE_B2,2024-03-04,[SYNTHETIC] Five stars! The camera exceeded my expectations.,4
+PHONE_D4,2024-03-04,[SYNTHETIC] Five stars! The battery exceeded my expectations.,5
+PHONE_D4,2024-03-04,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_E5,2024-03-04,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,3
+PHONE_A1,2024-03-04,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_C3,2024-03-05,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,4
+PHONE_B2,2024-03-05,[SYNTHETIC] Camera quality is disappointing. Photos come out blurry.,3
+PHONE_B2,2024-03-05,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,4
+PHONE_D4,2024-03-07,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,2
+PHONE_A1,2024-03-07,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_B2,2024-03-08,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,5
+PHONE_A1,2024-03-08,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_E5,2024-03-08,[SYNTHETIC] Impressive display. Works smoothly and looks great.,4
+PHONE_E5,2024-03-08,[SYNTHETIC] Autofocus doesn't work properly. Pictures are blurry.,2
+PHONE_B2,2024-03-09,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_D4,2024-03-10,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,3
+PHONE_A1,2024-03-10,[SYNTHETIC] Battery health dropped to 80% in just two months.,2
+PHONE_A1,2024-03-11,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,2
+PHONE_A1,2024-03-11,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-03-11,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_D4,2024-03-11,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_A1,2024-03-12,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,3
+PHONE_C3,2024-03-12,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-03-12,[SYNTHETIC] Five stars! The software exceeded my expectations.,5
+PHONE_D4,2024-03-12,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_A1,2024-03-13,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,4
+PHONE_D4,2024-03-14,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_E5,2024-03-15,[SYNTHETIC] The camera app keeps crashing. Blurred photos every time.,2
+PHONE_E5,2024-03-15,[SYNTHETIC] Happy customer here. The display is top notch.,4
+PHONE_E5,2024-03-15,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_E5,2024-03-15,[SYNTHETIC] Impressive display. Works smoothly and looks great.,4
+PHONE_A1,2024-03-16,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,4
+PHONE_D4,2024-03-17,[SYNTHETIC] It works fine for everyday use. No major complaints.,2
+PHONE_E5,2024-03-17,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,3
+PHONE_E5,2024-03-17,[SYNTHETIC] Camera quality is disappointing. Photos come out blurry.,2
+PHONE_D4,2024-03-17,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-03-17,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_B2,2024-03-17,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_B2,2024-03-17,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-03-18,[SYNTHETIC] Very good phone overall. The display is a standout feature.,5
+PHONE_D4,2024-03-18,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_E5,2024-03-18,[SYNTHETIC] No complaints about the display. Works as advertised.,4
+PHONE_B2,2024-03-19,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-03-21,[SYNTHETIC] Happy customer here. The display is top notch.,4
+PHONE_D4,2024-03-22,[SYNTHETIC] Solid camera performance. Would recommend to others.,4
+PHONE_A1,2024-03-22,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_C3,2024-03-22,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,3
+PHONE_A1,2024-03-23,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,3
+PHONE_B2,2024-03-23,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,4
+PHONE_C3,2024-03-23,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,2
+PHONE_B2,2024-03-24,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,2
+PHONE_A1,2024-03-24,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_A1,2024-03-24,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,2
+PHONE_B2,2024-03-24,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_C3,2024-03-25,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_C3,2024-03-25,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,5
+PHONE_B2,2024-03-25,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-03-25,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,4
+PHONE_A1,2024-03-28,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,4
+PHONE_E5,2024-03-28,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_A1,2024-03-28,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,5
+PHONE_A1,2024-03-29,[SYNTHETIC] No complaints about the display. Works as advertised.,5
+PHONE_E5,2024-03-29,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,2
+PHONE_D4,2024-03-29,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,4
+PHONE_D4,2024-03-30,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,5
+PHONE_D4,2024-03-30,[SYNTHETIC] Love the display on this device. Best purchase I've made.,4
+PHONE_A1,2024-03-30,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_B2,2024-03-31,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_D4,2024-03-31,[SYNTHETIC] Five stars! The display exceeded my expectations.,3
+PHONE_B2,2024-04-01,[SYNTHETIC] Happy customer here. The display is top notch.,4
+PHONE_B2,2024-04-01,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_A1,2024-04-02,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,4
+PHONE_A1,2024-04-02,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_D4,2024-04-03,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_D4,2024-04-03,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,5
+PHONE_C3,2024-04-03,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_E5,2024-04-03,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_D4,2024-04-04,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_E5,2024-04-05,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-04-05,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,4
+PHONE_A1,2024-04-06,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-04-06,[SYNTHETIC] Really happy with this phone. The software works perfectly.,5
+PHONE_E5,2024-04-06,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,2
+PHONE_B2,2024-04-07,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,2
+PHONE_A1,2024-04-07,[SYNTHETIC] No complaints about the camera. Works as advertised.,4
+PHONE_D4,2024-04-07,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,4
+PHONE_A1,2024-04-08,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-04-08,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-04-08,[SYNTHETIC] Image quality has degraded after the update. Photos look washed out.,3
+PHONE_D4,2024-04-08,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,5
+PHONE_C3,2024-04-08,[SYNTHETIC] Solid battery performance. Would recommend to others.,5
+PHONE_A1,2024-04-08,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_B2,2024-04-08,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,4
+PHONE_A1,2024-04-09,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-04-09,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_E5,2024-04-09,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_C3,2024-04-09,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,2
+PHONE_A1,2024-04-10,[SYNTHETIC] Autofocus doesn't work properly. Pictures are blurry.,3
+PHONE_C3,2024-04-10,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,2
+PHONE_B2,2024-04-11,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_E5,2024-04-11,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,5
+PHONE_A1,2024-04-11,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_B2,2024-04-11,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_C3,2024-04-12,[SYNTHETIC] It works fine for everyday use. No major complaints.,4
+PHONE_D4,2024-04-12,[SYNTHETIC] Phone is extremely slow and laggy. Apps take forever to load.,3
+PHONE_D4,2024-04-12,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,1
+PHONE_A1,2024-04-12,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_B2,2024-04-13,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_D4,2024-04-13,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_C3,2024-04-14,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,3
+PHONE_C3,2024-04-15,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_E5,2024-04-16,[SYNTHETIC] No complaints about the display. Works as advertised.,5
+PHONE_E5,2024-04-16,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_B2,2024-04-16,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,4
+PHONE_A1,2024-04-16,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-04-16,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,3
+PHONE_D4,2024-04-17,[SYNTHETIC] Happy customer here. The software is top notch.,5
+PHONE_D4,2024-04-18,[SYNTHETIC] Average product. Nothing special but nothing terrible.,2
+PHONE_A1,2024-04-18,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_C3,2024-04-18,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_C3,2024-04-18,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_A1,2024-04-18,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_E5,2024-04-18,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,4
+PHONE_A1,2024-04-19,[SYNTHETIC] Autofocus doesn't work properly. Pictures are blurry.,2
+PHONE_A1,2024-04-19,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,4
+PHONE_B2,2024-04-19,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_A1,2024-04-19,[SYNTHETIC] Five stars! The camera exceeded my expectations.,3
+PHONE_D4,2024-04-19,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,5
+PHONE_D4,2024-04-19,[SYNTHETIC] Solid battery performance. Would recommend to others.,5
+PHONE_B2,2024-04-20,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_E5,2024-04-20,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-04-20,[SYNTHETIC] Great product! The software is excellent and I'm very satisfied.,3
+PHONE_E5,2024-04-20,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_E5,2024-04-22,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-04-22,[SYNTHETIC] It works fine for everyday use. No major complaints.,4
+PHONE_A1,2024-04-23,[SYNTHETIC] Five stars! The software exceeded my expectations.,4
+PHONE_C3,2024-04-24,[SYNTHETIC] No complaints about the battery. Works as advertised.,4
+PHONE_B2,2024-04-26,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_D4,2024-04-26,[SYNTHETIC] Really happy with this phone. The software works perfectly.,5
+PHONE_A1,2024-04-26,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,1
+PHONE_C3,2024-04-26,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_A1,2024-04-27,[SYNTHETIC] Really happy with this phone. The software works perfectly.,4
+PHONE_B2,2024-04-27,[SYNTHETIC] It works fine for everyday use. No major complaints.,2
+PHONE_C3,2024-04-27,[SYNTHETIC] Love the software on this device. Best purchase I've made.,4
+PHONE_C3,2024-04-27,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,2
+PHONE_A1,2024-04-28,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,2
+PHONE_E5,2024-04-28,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_E5,2024-04-28,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,4
+PHONE_C3,2024-04-28,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_B2,2024-04-28,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,4
+PHONE_E5,2024-04-28,[SYNTHETIC] Impressive display. Works smoothly and looks great.,4
+PHONE_B2,2024-04-29,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-04-30,[SYNTHETIC] Impressive display. Works smoothly and looks great.,5
+PHONE_A1,2024-04-30,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_E5,2024-05-01,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-05-02,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-05-02,[SYNTHETIC] Five stars! The software exceeded my expectations.,5
+PHONE_A1,2024-05-02,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_E5,2024-05-02,[SYNTHETIC] Impressive display. Works smoothly and looks great.,4
+PHONE_C3,2024-05-04,[SYNTHETIC] Software update caused battery drain and crashes.,3
+PHONE_A1,2024-05-05,[SYNTHETIC] Software update caused battery drain and crashes.,1
+PHONE_A1,2024-05-05,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-05-06,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,4
+PHONE_A1,2024-05-07,[SYNTHETIC] Night mode is useless. Photos are grainy and dark.,3
+PHONE_B2,2024-05-07,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_A1,2024-05-07,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_E5,2024-05-08,[SYNTHETIC] Solid camera performance. Would recommend to others.,4
+PHONE_E5,2024-05-10,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_B2,2024-05-10,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,3
+PHONE_A1,2024-05-11,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,2
+PHONE_C3,2024-05-11,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-05-11,[SYNTHETIC] The camera app keeps crashing. Blurred photos every time.,2
+PHONE_A1,2024-05-12,[SYNTHETIC] No complaints about the display. Works as advertised.,5
+PHONE_A1,2024-05-12,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_E5,2024-05-12,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,4
+PHONE_D4,2024-05-13,[SYNTHETIC] Fast charging stopped working after update.,3
+PHONE_A1,2024-05-14,[SYNTHETIC] Impressive display. Works smoothly and looks great.,4
+PHONE_B2,2024-05-14,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_D4,2024-05-14,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,3
+PHONE_C3,2024-05-14,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,3
+PHONE_C3,2024-05-15,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_E5,2024-05-15,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_A1,2024-05-16,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_A1,2024-05-16,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",2
+PHONE_D4,2024-05-16,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_D4,2024-05-17,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_D4,2024-05-17,[SYNTHETIC] No complaints about the software. Works as advertised.,4
+PHONE_D4,2024-05-17,[SYNTHETIC] No complaints about the battery. Works as advertised.,5
+PHONE_A1,2024-05-17,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,3
+PHONE_A1,2024-05-17,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,3
+PHONE_A1,2024-05-18,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_B2,2024-05-18,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,5
+PHONE_C3,2024-05-18,[SYNTHETIC] Happy customer here. The battery is top notch.,5
+PHONE_B2,2024-05-19,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-05-20,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,1
+PHONE_C3,2024-05-20,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,1
+PHONE_B2,2024-05-20,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,2
+PHONE_B2,2024-05-20,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,4
+PHONE_B2,2024-05-21,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,2
+PHONE_A1,2024-05-21,[SYNTHETIC] Very good phone overall. The software is a standout feature.,4
+PHONE_E5,2024-05-22,[SYNTHETIC] No complaints about the battery. Works as advertised.,4
+PHONE_A1,2024-05-22,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_B2,2024-05-23,[SYNTHETIC] Impressive display. Works smoothly and looks great.,5
+PHONE_A1,2024-05-24,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_B2,2024-05-24,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,4
+PHONE_D4,2024-05-24,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,5
+PHONE_C3,2024-05-25,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_C3,2024-05-25,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_A1,2024-05-26,[SYNTHETIC] Phone gets extremely warm even during light usage.,1
+PHONE_A1,2024-05-27,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_A1,2024-05-27,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_A1,2024-05-27,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_C3,2024-05-28,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,4
+PHONE_C3,2024-05-28,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_B2,2024-05-28,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_E5,2024-05-28,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_A1,2024-05-29,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,1
+PHONE_C3,2024-05-29,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_C3,2024-05-29,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,5
+PHONE_E5,2024-05-29,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_D4,2024-05-29,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-05-29,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_A1,2024-05-30,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,2
+PHONE_A1,2024-05-31,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,2
+PHONE_A1,2024-06-01,[SYNTHETIC] Solid software performance. Would recommend to others.,5
+PHONE_A1,2024-06-01,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_D4,2024-06-01,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_C3,2024-06-01,[SYNTHETIC] No complaints about the software. Works as advertised.,4
+PHONE_A1,2024-06-01,[SYNTHETIC] Image quality has degraded after the update. Photos look washed out.,2
+PHONE_E5,2024-06-02,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,2
+PHONE_A1,2024-06-02,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-06-02,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_B2,2024-06-02,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,4
+PHONE_B2,2024-06-03,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,5
+PHONE_C3,2024-06-03,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,3
+PHONE_A1,2024-06-03,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,5
+PHONE_A1,2024-06-03,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_D4,2024-06-03,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_A1,2024-06-04,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,2
+PHONE_D4,2024-06-04,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_C3,2024-06-05,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_E5,2024-06-05,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,4
+PHONE_D4,2024-06-05,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,5
+PHONE_A1,2024-06-05,[SYNTHETIC] Happy customer here. The software is top notch.,5
+PHONE_A1,2024-06-05,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,1
+PHONE_B2,2024-06-05,[SYNTHETIC] Happy customer here. The camera is top notch.,5
+PHONE_A1,2024-06-05,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-06-06,[SYNTHETIC] No complaints about the software. Works as advertised.,5
+PHONE_A1,2024-06-06,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_A1,2024-06-07,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_C3,2024-06-08,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_C3,2024-06-08,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_A1,2024-06-09,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_E5,2024-06-09,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_C3,2024-06-09,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,1
+PHONE_D4,2024-06-09,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_D4,2024-06-09,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,4
+PHONE_E5,2024-06-10,[SYNTHETIC] Image quality has degraded after the update. Photos look washed out.,3
+PHONE_D4,2024-06-11,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_A1,2024-06-11,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,3
+PHONE_B2,2024-06-11,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_B2,2024-06-11,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_E5,2024-06-12,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_D4,2024-06-12,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_A1,2024-06-12,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_A1,2024-06-13,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_A1,2024-06-13,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_D4,2024-06-13,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,4
+PHONE_A1,2024-06-14,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",2
+PHONE_A1,2024-06-14,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_E5,2024-06-15,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",2
+PHONE_A1,2024-06-15,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,1
+PHONE_C3,2024-06-15,[SYNTHETIC] Love the software on this device. Best purchase I've made.,5
+PHONE_A1,2024-06-15,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-06-16,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_A1,2024-06-16,[SYNTHETIC] The camera app keeps crashing. Blurred photos every time.,2
+PHONE_B2,2024-06-16,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_B2,2024-06-17,[SYNTHETIC] Very good phone overall. The display is a standout feature.,5
+PHONE_A1,2024-06-17,[SYNTHETIC] Image quality has degraded after the update. Photos look washed out.,3
+PHONE_A1,2024-06-17,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,1
+PHONE_C3,2024-06-17,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,2
+PHONE_C3,2024-06-17,[SYNTHETIC] Happy customer here. The battery is top notch.,4
+PHONE_D4,2024-06-18,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,4
+PHONE_D4,2024-06-18,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,1
+PHONE_A1,2024-06-18,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-06-19,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-06-20,[SYNTHETIC] Five stars! The camera exceeded my expectations.,4
+PHONE_C3,2024-06-20,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,2
+PHONE_C3,2024-06-20,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_B2,2024-06-21,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,5
+PHONE_A1,2024-06-21,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,1
+PHONE_B2,2024-06-21,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_E5,2024-06-22,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_D4,2024-06-22,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_D4,2024-06-23,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-06-23,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_C3,2024-06-23,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,1
+PHONE_D4,2024-06-24,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_D4,2024-06-24,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,3
+PHONE_A1,2024-06-25,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,4
+PHONE_E5,2024-06-26,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_A1,2024-06-26,[SYNTHETIC] Battery health dropped to 80% in just two months.,3
+PHONE_C3,2024-06-27,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,2
+PHONE_B2,2024-06-27,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,2
+PHONE_C3,2024-06-28,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,2
+PHONE_B2,2024-06-28,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,4
+PHONE_E5,2024-06-28,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_A1,2024-06-29,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,1
+PHONE_A1,2024-06-29,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,1
+PHONE_A1,2024-06-29,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,2
+PHONE_E5,2024-06-30,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,2
+PHONE_D4,2024-07-01,[SYNTHETIC] No complaints about the display. Works as advertised.,4
+PHONE_C3,2024-07-01,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,1
+PHONE_D4,2024-07-01,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_A1,2024-07-02,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_A1,2024-07-02,[SYNTHETIC] Phone gets extremely warm even during light usage.,1
+PHONE_A1,2024-07-04,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_E5,2024-07-05,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-07-05,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_D4,2024-07-05,[SYNTHETIC] Impressive battery. Works smoothly and looks great.,4
+PHONE_A1,2024-07-06,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,4
+PHONE_B2,2024-07-06,[SYNTHETIC] It works fine for everyday use. No major complaints.,2
+PHONE_C3,2024-07-07,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_C3,2024-07-07,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_A1,2024-07-08,[SYNTHETIC] Solid software performance. Would recommend to others.,5
+PHONE_D4,2024-07-08,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_B2,2024-07-09,[SYNTHETIC] No complaints about the battery. Works as advertised.,5
+PHONE_D4,2024-07-09,[SYNTHETIC] Solid battery performance. Would recommend to others.,5
+PHONE_A1,2024-07-10,[SYNTHETIC] Love the display on this device. Best purchase I've made.,4
+PHONE_A1,2024-07-10,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_A1,2024-07-10,[SYNTHETIC] Phone gets extremely warm even during light usage.,2
+PHONE_D4,2024-07-10,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,3
+PHONE_D4,2024-07-10,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,2
+PHONE_C3,2024-07-11,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,3
+PHONE_C3,2024-07-11,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,1
+PHONE_A1,2024-07-11,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_C3,2024-07-12,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,2
+PHONE_B2,2024-07-12,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_E5,2024-07-12,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_A1,2024-07-12,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,1
+PHONE_D4,2024-07-12,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",2
+PHONE_A1,2024-07-13,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_D4,2024-07-14,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_C3,2024-07-15,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,1
+PHONE_C3,2024-07-15,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,1
+PHONE_B2,2024-07-15,[SYNTHETIC] It works fine for everyday use. No major complaints.,4
+PHONE_E5,2024-07-16,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_A1,2024-07-16,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_D4,2024-07-17,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,3
+PHONE_D4,2024-07-17,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,3
+PHONE_A1,2024-07-17,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,2
+PHONE_C3,2024-07-17,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_E5,2024-07-17,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_B2,2024-07-18,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_C3,2024-07-18,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_D4,2024-07-18,[SYNTHETIC] Very good phone overall. The battery is a standout feature.,5
+PHONE_C3,2024-07-19,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,1
+PHONE_D4,2024-07-19,[SYNTHETIC] Solid display performance. Would recommend to others.,4
+PHONE_B2,2024-07-20,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_B2,2024-07-20,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_C3,2024-07-20,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,3
+PHONE_A1,2024-07-21,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,1
+PHONE_C3,2024-07-22,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_D4,2024-07-23,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_A1,2024-07-23,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,1
+PHONE_E5,2024-07-23,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_B2,2024-07-23,[SYNTHETIC] No complaints about the battery. Works as advertised.,5
+PHONE_D4,2024-07-24,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_A1,2024-07-24,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_A1,2024-07-25,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_A1,2024-07-25,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,2
+PHONE_D4,2024-07-25,[SYNTHETIC] Five stars! The battery exceeded my expectations.,5
+PHONE_A1,2024-07-25,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_A1,2024-07-25,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_A1,2024-07-25,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,2
+PHONE_C3,2024-07-26,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,1
+PHONE_A1,2024-07-26,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,5
+PHONE_C3,2024-07-27,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,1
+PHONE_A1,2024-07-27,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_A1,2024-07-29,[SYNTHETIC] Five stars! The display exceeded my expectations.,3
+PHONE_E5,2024-07-29,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_A1,2024-07-30,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,1
+PHONE_A1,2024-07-30,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,1
+PHONE_B2,2024-07-31,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_C3,2024-07-31,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,1
+PHONE_A1,2024-07-31,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,1
+PHONE_D4,2024-07-31,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_E5,2024-08-01,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_E5,2024-08-01,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,1
+PHONE_A1,2024-08-02,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,2
+PHONE_D4,2024-08-02,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_D4,2024-08-02,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_D4,2024-08-02,[SYNTHETIC] No complaints about the display. Works as advertised.,4
+PHONE_E5,2024-08-02,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,3
+PHONE_C3,2024-08-02,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_A1,2024-08-03,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_A1,2024-08-03,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_E5,2024-08-04,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,2
+PHONE_D4,2024-08-05,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_A1,2024-08-05,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,1
+PHONE_A1,2024-08-05,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,5
+PHONE_E5,2024-08-05,[SYNTHETIC] Notifications don't work properly after firmware update.,1
+PHONE_E5,2024-08-05,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_D4,2024-08-06,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-08-06,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,3
+PHONE_C3,2024-08-06,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,2
+PHONE_D4,2024-08-06,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,4
+PHONE_C3,2024-08-06,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_A1,2024-08-07,[SYNTHETIC] Fast charging stopped working after update.,1
+PHONE_C3,2024-08-09,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,4
+PHONE_A1,2024-08-09,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_D4,2024-08-10,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_C3,2024-08-11,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_C3,2024-08-11,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-08-11,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,2
+PHONE_A1,2024-08-11,[SYNTHETIC] Very good phone overall. The display is a standout feature.,4
+PHONE_B2,2024-08-11,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,3
+PHONE_C3,2024-08-12,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_B2,2024-08-12,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_B2,2024-08-13,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_B2,2024-08-13,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_E5,2024-08-13,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_D4,2024-08-14,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_A1,2024-08-14,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,2
+PHONE_A1,2024-08-14,[SYNTHETIC] Phone gets extremely warm even during light usage.,2
+PHONE_E5,2024-08-14,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,3
+PHONE_C3,2024-08-14,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_D4,2024-08-15,[SYNTHETIC] Five stars! The display exceeded my expectations.,4
+PHONE_A1,2024-08-16,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,1
+PHONE_B2,2024-08-16,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,1
+PHONE_E5,2024-08-16,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-08-17,[SYNTHETIC] Happy customer here. The display is top notch.,5
+PHONE_D4,2024-08-17,[SYNTHETIC] No complaints about the software. Works as advertised.,4
+PHONE_D4,2024-08-17,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,4
+PHONE_B2,2024-08-18,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,2
+PHONE_D4,2024-08-18,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,3
+PHONE_D4,2024-08-19,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,5
+PHONE_B2,2024-08-19,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_B2,2024-08-19,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_D4,2024-08-21,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_B2,2024-08-21,[SYNTHETIC] Notifications don't work properly after firmware update.,1
+PHONE_C3,2024-08-22,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_B2,2024-08-22,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,5
+PHONE_B2,2024-08-22,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_A1,2024-08-23,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,1
+PHONE_C3,2024-08-23,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,1
+PHONE_C3,2024-08-24,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,1
+PHONE_E5,2024-08-24,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_A1,2024-08-24,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,3
+PHONE_C3,2024-08-24,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,2
+PHONE_A1,2024-08-24,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,1
+PHONE_C3,2024-08-25,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,1
+PHONE_E5,2024-08-25,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_A1,2024-08-26,[SYNTHETIC] Solid camera performance. Would recommend to others.,4
+PHONE_B2,2024-08-26,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_D4,2024-08-26,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_A1,2024-08-27,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_A1,2024-08-27,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,1
+PHONE_C3,2024-08-27,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_A1,2024-08-27,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,2
+PHONE_E5,2024-08-28,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_A1,2024-08-28,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_A1,2024-08-28,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_A1,2024-08-29,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,1
+PHONE_D4,2024-08-29,[SYNTHETIC] Average product. Nothing special but nothing terrible.,4
+PHONE_D4,2024-08-29,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,3
+PHONE_C3,2024-08-29,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,3
+PHONE_C3,2024-08-30,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_A1,2024-08-30,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_C3,2024-08-30,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_A1,2024-08-31,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,3
+PHONE_D4,2024-08-31,[SYNTHETIC] Five stars! The battery exceeded my expectations.,4
+PHONE_D4,2024-08-31,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,2
+PHONE_C3,2024-08-31,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_B2,2024-09-01,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_D4,2024-09-01,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,3
+PHONE_C3,2024-09-01,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,2
+PHONE_E5,2024-09-02,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_C3,2024-09-02,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,2
+PHONE_D4,2024-09-02,[SYNTHETIC] Solid battery performance. Would recommend to others.,5
+PHONE_E5,2024-09-03,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,1
+PHONE_E5,2024-09-03,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_A1,2024-09-03,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_D4,2024-09-03,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-09-04,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,5
+PHONE_E5,2024-09-04,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_C3,2024-09-05,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_B2,2024-09-05,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,1
+PHONE_A1,2024-09-05,[SYNTHETIC] Phone gets extremely warm even during light usage.,1
+PHONE_B2,2024-09-05,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,2
+PHONE_D4,2024-09-06,[SYNTHETIC] Phone is extremely slow and laggy. Apps take forever to load.,2
+PHONE_D4,2024-09-06,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_E5,2024-09-08,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_E5,2024-09-09,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,4
+PHONE_A1,2024-09-09,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,1
+PHONE_A1,2024-09-09,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,2
+PHONE_E5,2024-09-10,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_E5,2024-09-10,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_A1,2024-09-10,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,1
+PHONE_A1,2024-09-10,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_A1,2024-09-10,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,2
+PHONE_A1,2024-09-10,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,1
+PHONE_E5,2024-09-10,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,3
+PHONE_A1,2024-09-11,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,1
+PHONE_E5,2024-09-12,[SYNTHETIC] Great product! The display is excellent and I'm very satisfied.,4
+PHONE_A1,2024-09-12,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,2
+PHONE_A1,2024-09-12,[SYNTHETIC] Solid software performance. Would recommend to others.,5
+PHONE_C3,2024-09-13,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_E5,2024-09-13,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,1
+PHONE_E5,2024-09-13,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_A1,2024-09-13,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_C3,2024-09-13,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_C3,2024-09-14,[SYNTHETIC] Build quality is poor. Phone feels flimsy and cheap.,1
+PHONE_B2,2024-09-15,[SYNTHETIC] System update broke several features. Bugs everywhere.,2
+PHONE_D4,2024-09-15,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,3
+PHONE_D4,2024-09-16,[SYNTHETIC] Solid software performance. Would recommend to others.,4
+PHONE_C3,2024-09-16,[SYNTHETIC] Impressive software. Works smoothly and looks great.,4
+PHONE_D4,2024-09-16,[SYNTHETIC] Five stars! The software exceeded my expectations.,5
+PHONE_E5,2024-09-16,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_B2,2024-09-16,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,1
+PHONE_A1,2024-09-16,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",2
+PHONE_E5,2024-09-16,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_B2,2024-09-17,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_B2,2024-09-17,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_C3,2024-09-17,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,1
+PHONE_C3,2024-09-17,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,3
+PHONE_D4,2024-09-17,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_A1,2024-09-17,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-09-18,[SYNTHETIC] The battery percentage drops from 100 to 50 in two hours.,1
+PHONE_B2,2024-09-18,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,2
+PHONE_A1,2024-09-19,[SYNTHETIC] Very good phone overall. The software is a standout feature.,5
+PHONE_A1,2024-09-19,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_B2,2024-09-19,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_A1,2024-09-20,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,2
+PHONE_B2,2024-09-20,[SYNTHETIC] Phone is extremely slow and laggy. Apps take forever to load.,2
+PHONE_B2,2024-09-20,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_C3,2024-09-20,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,1
+PHONE_B2,2024-09-20,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_B2,2024-09-20,[SYNTHETIC] Notifications don't work properly after firmware update.,1
+PHONE_C3,2024-09-21,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,2
+PHONE_D4,2024-09-22,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,4
+PHONE_D4,2024-09-22,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_A1,2024-09-22,[SYNTHETIC] Excellent value. The camera quality is amazing for this price.,4
+PHONE_A1,2024-09-23,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_C3,2024-09-23,[SYNTHETIC] Five stars! The software exceeded my expectations.,4
+PHONE_E5,2024-09-24,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,1
+PHONE_C3,2024-09-25,[SYNTHETIC] Love the camera on this device. Best purchase I've made.,4
+PHONE_A1,2024-09-25,[SYNTHETIC] Software update caused battery drain and crashes.,3
+PHONE_E5,2024-09-25,[SYNTHETIC] Five stars! The camera exceeded my expectations.,5
+PHONE_E5,2024-09-25,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_C3,2024-09-25,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-09-25,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_E5,2024-09-26,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,1
+PHONE_A1,2024-09-26,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_E5,2024-09-26,[SYNTHETIC] Excellent value. The display quality is amazing for this price.,5
+PHONE_C3,2024-09-27,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,3
+PHONE_A1,2024-09-27,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_A1,2024-09-27,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_C3,2024-09-27,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_D4,2024-09-27,[SYNTHETIC] The camera app keeps crashing. Blurred photos every time.,3
+PHONE_B2,2024-09-27,[SYNTHETIC] Very good phone overall. The display is a standout feature.,5
+PHONE_A1,2024-09-28,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_D4,2024-09-28,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,5
+PHONE_B2,2024-09-29,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_A1,2024-09-29,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_D4,2024-09-29,[SYNTHETIC] Solid display performance. Would recommend to others.,4
+PHONE_A1,2024-09-29,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_C3,2024-09-29,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_A1,2024-09-29,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,1
+PHONE_E5,2024-09-29,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,1
+PHONE_D4,2024-09-30,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_E5,2024-09-30,[SYNTHETIC] System update broke several features. Bugs everywhere.,2
+PHONE_E5,2024-09-30,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_D4,2024-10-01,[SYNTHETIC] Autofocus doesn't work properly. Pictures are blurry.,2
+PHONE_A1,2024-10-01,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,3
+PHONE_C3,2024-10-02,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_A1,2024-10-02,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-10-03,[SYNTHETIC] Five stars! The battery exceeded my expectations.,4
+PHONE_B2,2024-10-03,[SYNTHETIC] Software update caused battery drain and crashes.,1
+PHONE_B2,2024-10-03,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_D4,2024-10-03,[SYNTHETIC] Excellent value. The battery quality is amazing for this price.,5
+PHONE_A1,2024-10-04,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_C3,2024-10-04,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,1
+PHONE_A1,2024-10-05,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,2
+PHONE_A1,2024-10-05,[SYNTHETIC] Phone overheats during normal use. Gets too hot to hold.,1
+PHONE_C3,2024-10-05,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,1
+PHONE_D4,2024-10-06,[SYNTHETIC] Very good phone overall. The software is a standout feature.,5
+PHONE_E5,2024-10-06,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,1
+PHONE_B2,2024-10-06,[SYNTHETIC] Solid display performance. Would recommend to others.,4
+PHONE_A1,2024-10-06,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_B2,2024-10-07,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_A1,2024-10-07,[SYNTHETIC] Really happy with this phone. The software works perfectly.,5
+PHONE_C3,2024-10-08,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,3
+PHONE_A1,2024-10-08,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,1
+PHONE_A1,2024-10-08,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_A1,2024-10-08,"[SYNTHETIC] Battery drains so quickly, barely lasts half a day.",3
+PHONE_A1,2024-10-09,[SYNTHETIC] Fast charging stopped working after update.,1
+PHONE_D4,2024-10-10,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_B2,2024-10-10,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,2
+PHONE_A1,2024-10-10,[SYNTHETIC] Love the display on this device. Best purchase I've made.,5
+PHONE_A1,2024-10-10,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,2
+PHONE_C3,2024-10-10,[SYNTHETIC] Excellent value. The software quality is amazing for this price.,5
+PHONE_A1,2024-10-10,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_E5,2024-10-11,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,2
+PHONE_E5,2024-10-11,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_B2,2024-10-12,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_B2,2024-10-12,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,3
+PHONE_A1,2024-10-12,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,1
+PHONE_A1,2024-10-12,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-10-12,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,1
+PHONE_B2,2024-10-13,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_A1,2024-10-14,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_B2,2024-10-14,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_C3,2024-10-14,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,3
+PHONE_E5,2024-10-14,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,2
+PHONE_D4,2024-10-14,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_C3,2024-10-14,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,1
+PHONE_A1,2024-10-15,[SYNTHETIC] Battery health dropped to 80% in just two months.,1
+PHONE_B2,2024-10-15,[SYNTHETIC] Love the battery on this device. Best purchase I've made.,4
+PHONE_D4,2024-10-15,[SYNTHETIC] No complaints about the display. Works as advertised.,4
+PHONE_B2,2024-10-15,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,1
+PHONE_A1,2024-10-16,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_A1,2024-10-16,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,3
+PHONE_C3,2024-10-16,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,1
+PHONE_C3,2024-10-16,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_C3,2024-10-16,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_E5,2024-10-17,[SYNTHETIC] System update broke several features. Bugs everywhere.,2
+PHONE_B2,2024-10-17,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,2
+PHONE_E5,2024-10-18,[SYNTHETIC] 5G doesn't work properly. Network connection is unstable.,1
+PHONE_C3,2024-10-18,[SYNTHETIC] Great product! The software is excellent and I'm very satisfied.,5
+PHONE_E5,2024-10-19,[SYNTHETIC] Software update caused battery drain and crashes.,2
+PHONE_A1,2024-10-19,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_E5,2024-10-19,[SYNTHETIC] System update broke several features. Bugs everywhere.,3
+PHONE_B2,2024-10-20,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,1
+PHONE_A1,2024-10-20,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,1
+PHONE_A1,2024-10-21,[SYNTHETIC] Charging port is loose. Cable keeps disconnecting.,2
+PHONE_C3,2024-10-21,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_A1,2024-10-21,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_A1,2024-10-22,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,2
+PHONE_C3,2024-10-22,[SYNTHETIC] Screen flickers randomly. Very annoying to look at.,2
+PHONE_A1,2024-10-23,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,1
+PHONE_C3,2024-10-23,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_A1,2024-10-23,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,1
+PHONE_E5,2024-10-23,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_E5,2024-10-24,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_E5,2024-10-25,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
+PHONE_E5,2024-10-25,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,3
+PHONE_A1,2024-10-25,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_E5,2024-10-25,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_B2,2024-10-26,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,3
+PHONE_C3,2024-10-26,[SYNTHETIC] Water damage despite claimed water resistance. Broke after light rain.,2
+PHONE_C3,2024-10-26,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_D4,2024-10-26,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_A1,2024-10-27,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,2
+PHONE_A1,2024-10-27,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,2
+PHONE_E5,2024-10-27,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,2
+PHONE_A1,2024-10-27,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,2
+PHONE_A1,2024-10-28,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_C3,2024-10-28,[SYNTHETIC] Camera quality is disappointing. Photos come out blurry.,2
+PHONE_A1,2024-10-29,[SYNTHETIC] Wireless charging is unreliable. Takes forever to charge.,1
+PHONE_B2,2024-10-30,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_B2,2024-10-30,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_A1,2024-10-30,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,2
+PHONE_C3,2024-10-30,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_D4,2024-10-30,[SYNTHETIC] Very good phone overall. The software is a standout feature.,5
+PHONE_A1,2024-10-31,[SYNTHETIC] Phone gets extremely warm even during light usage.,2
+PHONE_D4,2024-10-31,[SYNTHETIC] Really happy with this phone. The software works perfectly.,5
+PHONE_E5,2024-10-31,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,5
+PHONE_A1,2024-11-01,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_A1,2024-11-01,[SYNTHETIC] No complaints about the display. Works as advertised.,5
+PHONE_B2,2024-11-01,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,2
+PHONE_C3,2024-11-01,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_D4,2024-11-01,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_B2,2024-11-02,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,4
+PHONE_B2,2024-11-02,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,1
+PHONE_C3,2024-11-02,[SYNTHETIC] Screen shattered despite having a protector. Fragile build.,2
+PHONE_E5,2024-11-02,[SYNTHETIC] Weak signal reception. Call drops in areas where other phones work fine.,1
+PHONE_C3,2024-11-03,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,4
+PHONE_E5,2024-11-03,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,1
+PHONE_D4,2024-11-03,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,4
+PHONE_A1,2024-11-03,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_D4,2024-11-04,[SYNTHETIC] No complaints about the software. Works as advertised.,4
+PHONE_B2,2024-11-05,[SYNTHETIC] Phone is extremely slow and laggy. Apps take forever to load.,2
+PHONE_E5,2024-11-05,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_D4,2024-11-05,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_E5,2024-11-06,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_E5,2024-11-06,[SYNTHETIC] Notifications don't work properly after firmware update.,2
+PHONE_B2,2024-11-06,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,4
+PHONE_A1,2024-11-06,[SYNTHETIC] Phone scratches very easily. The paint is already chipping.,2
+PHONE_C3,2024-11-07,[SYNTHETIC] Solid software performance. Would recommend to others.,5
+PHONE_E5,2024-11-07,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,2
+PHONE_A1,2024-11-08,[SYNTHETIC] No complaints about the camera. Works as advertised.,5
+PHONE_E5,2024-11-08,[SYNTHETIC] System update broke several features. Bugs everywhere.,2
+PHONE_E5,2024-11-08,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_A1,2024-11-08,[SYNTHETIC] Phone gets extremely warm even during light usage.,2
+PHONE_D4,2024-11-09,[SYNTHETIC] Solid display performance. Would recommend to others.,5
+PHONE_A1,2024-11-11,[SYNTHETIC] Slow charging takes over 3 hours. Not charging properly.,2
+PHONE_A1,2024-11-11,[SYNTHETIC] It works fine for everyday use. No major complaints.,3
+PHONE_B2,2024-11-11,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_D4,2024-11-12,[SYNTHETIC] Really happy with this phone. The display works perfectly.,5
+PHONE_D4,2024-11-12,[SYNTHETIC] Really happy with this phone. The display works perfectly.,4
+PHONE_B2,2024-11-12,[SYNTHETIC] Camera quality is disappointing. Photos come out blurry.,2
+PHONE_E5,2024-11-13,[SYNTHETIC] Five stars! The display exceeded my expectations.,5
+PHONE_C3,2024-11-13,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_E5,2024-11-14,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_A1,2024-11-14,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,2
+PHONE_E5,2024-11-14,[SYNTHETIC] WiFi keeps disconnecting randomly. Very frustrating.,1
+PHONE_D4,2024-11-15,[SYNTHETIC] Really happy with this phone. The camera works perfectly.,5
+PHONE_E5,2024-11-16,[SYNTHETIC] Impressive camera. Works smoothly and looks great.,5
+PHONE_A1,2024-11-16,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,1
+PHONE_B2,2024-11-16,[SYNTHETIC] Great product! The battery is excellent and I'm very satisfied.,5
+PHONE_E5,2024-11-17,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_D4,2024-11-17,[SYNTHETIC] Five stars! The camera exceeded my expectations.,4
+PHONE_A1,2024-11-17,[SYNTHETIC] Phone gets extremely warm even during light usage.,1
+PHONE_E5,2024-11-17,[SYNTHETIC] Bluetooth is unreliable. Connection drops frequently.,1
+PHONE_A1,2024-11-17,[SYNTHETIC] Phone not charging with original cable. Adapter seems defective.,2
+PHONE_D4,2024-11-18,[SYNTHETIC] Average product. Nothing special but nothing terrible.,3
+PHONE_A1,2024-11-18,[SYNTHETIC] Thermal throttling makes the phone slow when it gets hot.,2
+PHONE_D4,2024-11-19,[SYNTHETIC] Mediocre at best. Expected a bit more for the price.,3
+PHONE_A1,2024-11-19,[SYNTHETIC] Fast charging stopped working after update.,2
+PHONE_E5,2024-11-19,[SYNTHETIC] Really happy with this phone. The battery works perfectly.,4
+PHONE_A1,2024-11-20,[SYNTHETIC] Great product! The camera is excellent and I'm very satisfied.,5
+PHONE_E5,2024-11-20,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_E5,2024-11-20,[SYNTHETIC] System update broke several features. Bugs everywhere.,1
+PHONE_E5,2024-11-20,[SYNTHETIC] Software is buggy and full of glitches. Frequent crashes.,2
+PHONE_B2,2024-11-21,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,2
+PHONE_A1,2024-11-21,[SYNTHETIC] Happy customer here. The software is top notch.,4
+PHONE_A1,2024-11-21,[SYNTHETIC] Overheats during video calls. Temperature is dangerously high.,1
+PHONE_C3,2024-11-22,[SYNTHETIC] The touchscreen is unresponsive in certain areas.,2
+PHONE_B2,2024-11-22,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_B2,2024-11-23,[SYNTHETIC] Software update caused battery drain and crashes.,1
+PHONE_E5,2024-11-23,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-11-24,[SYNTHETIC] Apps crash frequently. The phone stutters during basic tasks.,1
+PHONE_B2,2024-11-24,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,3
+PHONE_E5,2024-11-24,[SYNTHETIC] UI is laggy and the interface feels unpolished. Crashes daily.,2
+PHONE_A1,2024-11-24,[SYNTHETIC] Battery backup is awful. Need to charge three times a day.,1
+PHONE_A1,2024-11-25,[SYNTHETIC] Image quality has degraded after the update. Photos look washed out.,2
+PHONE_A1,2024-11-25,[SYNTHETIC] Phone gets extremely warm even during light usage.,2
+PHONE_A1,2024-11-25,[SYNTHETIC] Power consumption is way too high. Battery drain is a real problem.,1
+PHONE_B2,2024-11-26,[SYNTHETIC] Screen burn-in after just a few weeks. Display quality is poor.,2
+PHONE_A1,2024-11-26,[SYNTHETIC] Solid camera performance. Would recommend to others.,5
+PHONE_A1,2024-11-26,[SYNTHETIC] The battery life is terrible. Battery dies before noon.,3
+PHONE_D4,2024-11-26,[SYNTHETIC] Very good phone overall. The camera is a standout feature.,5
+PHONE_B2,2024-11-27,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_A1,2024-11-27,[SYNTHETIC] It's an okay phone. Does what it's supposed to do.,3
+PHONE_B2,2024-11-27,[SYNTHETIC] Performance has degraded significantly. Everything feels sluggish.,2
+PHONE_B2,2024-11-28,[SYNTHETIC] Constant freezing and hanging. Phone becomes unresponsive.,2
+PHONE_A1,2024-11-28,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,2
+PHONE_C3,2024-11-28,[SYNTHETIC] Ghost touch issues make the phone unusable. Screen keeps flickering.,1
+PHONE_E5,2024-11-28,[SYNTHETIC] Decent phone for the price. Meets basic expectations.,3
+PHONE_D4,2024-11-29,[SYNTHETIC] Battery drains quickly even on standby. Very disappointed.,2
+PHONE_D4,2024-11-29,[SYNTHETIC] Five stars! The camera exceeded my expectations.,4
+PHONE_A1,2024-11-30,[SYNTHETIC] Fast charging stopped working after update.,1
+PHONE_B2,2024-11-30,[SYNTHETIC] RAM management is terrible. Apps keep closing in background.,2
+PHONE_C3,2024-11-30,[SYNTHETIC] Dead pixels appeared after a month. Screen has bright spots.,2
+PHONE_C3,2024-11-30,[SYNTHETIC] Back panel cracked from a small drop. Not durable at all.,1
+PHONE_A1,2024-11-30,[SYNTHETIC] Severe overheating problem. The phone heats up while charging.,2
+PHONE_E5,2024-12-01,[SYNTHETIC] GPS is inaccurate. Mobile data keeps dropping out.,2
